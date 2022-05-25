@@ -98,7 +98,7 @@ model_type:
         - 3
         type: ndarray
   type: sklearn
-object_type: model
+object_type: does_not_exist
 requirements:
 - module: sklearn
   version: 1.1.0
